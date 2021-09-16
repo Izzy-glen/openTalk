@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-opentalk-dev-52628-authRole",
+      "UnauthRoleArn": "arn:aws:iam::068335258404:role/amplify-opentalk-dev-52628-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::068335258404:role/amplify-opentalk-dev-52628-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-opentalk-dev-52628-deployment",
+      "UnauthRoleName": "amplify-opentalk-dev-52628-unauthRole",
+      "StackName": "amplify-opentalk-dev-52628",
+      "StackId": "arn:aws:cloudformation:us-east-1:068335258404:stack/amplify-opentalk-dev-52628/a79578d0-0a13-11ec-a223-0ad0300346b1",
+      "AmplifyAppId": "d2gqkdfphsdt58"
+    },
+    "categories": {
+      "auth": {
+        "opentalk84b8d80e": {},
+        "opentalk81ff88f3": {}
+      }
+    }
+  }
+}
